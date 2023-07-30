@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main(){
+	cout<<"龙龙你好，我是福州大学软件工程4班29号谢雨欣。"<<endl;
+	cout<<"很荣幸能够收到你的邀请，一起排查出影响网络速度的根源" <<endl;
+	cout<<"我会尽我最大的努力掌握网络基础知识，和你一起解决问题！"<<endl;
+	cout<<"我的电话是：18146153251"<<endl<<"QQ:2552914626" <<endl;
+	return 0;
+} 
